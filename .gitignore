@@ -1,0 +1,39 @@
+
+# .NET
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# JetBrains
+.idea/
+*.DotSettings.user
+
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/appsettings.*.local.json
+**/secrets.json
+
+# Database backups
+*.bak
+*.mdf
+*.ldf
+sqlserver_data/
+
+# Logs
+*.log
+logs/
+
+# Local uploads
+uploads/
+StudentPhotos/

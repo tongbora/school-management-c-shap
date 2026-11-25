@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/database/">
+    <File Path="01_create_database.sql" />
+    <File Path="02_seed_demo_data.sql" />
+  </Folder>
+  <Folder Name="/database/seeds/" />
+  <Folder Name="/database/seeds/migrations/" />
+  <Folder Name="/Solution Items/" />
+  <Project Path="SchoolManagement.Application/SchoolManagement.Application.csproj" />
+  <Project Path="SchoolManagement.Desktop/SchoolManagement.Desktop.csproj" />
+  <Project Path="SchoolManagement.Domain/SchoolManagement.Domain.csproj" />
+  <Project Path="SchoolManagement.Infrastructure/SchoolManagement.Infrastructure.csproj" />
+</Solution>
